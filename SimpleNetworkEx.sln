@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BE3010CA-87B9-54AF-A75B-E36D16B43358}") = "SimpleNetworkEx", "Assembly-CSharp.csproj", "{878A18DA-ECAF-709C-8DFF-089CEA99A3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878A18DA-ECAF-709C-8DFF-089CEA99A3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878A18DA-ECAF-709C-8DFF-089CEA99A3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878A18DA-ECAF-709C-8DFF-089CEA99A3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878A18DA-ECAF-709C-8DFF-089CEA99A3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
